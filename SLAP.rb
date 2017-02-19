@@ -19,7 +19,7 @@ end
 
 
 # good
-# Hight -> Middle -> Low, Low
+# High -> Middle -> Low, Low
 class Creatures # High
 end
 
